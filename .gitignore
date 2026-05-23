@@ -27,3 +27,8 @@ Thumbs.db  # Windows
 
 #Дополнительный для проверки
 tmp_data.txt
+data_driven_project/
+*.pdf
+*.pdf
+.ipynb_checkpoints/
+project_instructions_DMDc.md
